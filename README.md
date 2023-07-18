@@ -1,14 +1,7 @@
 ### Hi there! Welcome to my github profile!
-My name is Cameron, and I am a big tech fan from Ontario, Canada. Read on if you want to know a little more about me!
+I'm FridgeTheorem! Right now I am working on security stuff mostly, and would really like to get into doing CTFs.
 
-- 🎓 I am currently in school for Computer Science at the University of Waterloo, and expect to graduate in August 2023
-- 💻 I love tech! I am an avid computer hardware enthusiast, and have come to be very interested in homelab stuff over the past year
-- 🎮 I also love playing games! My favourite games I played in 2020 had to be Doom Eternal and Red Dead Redemption 2, and I am always looking for new things to play!
-- ⌨ I really enjoy programming in my free time
-- 🔎 My main programming interests are (right now): Security, Game Development
-
-
-Feel free to get in touch if you want to try to do something together! I really can't cover everything I like in one blurb, and I'm always open to new opportunties.
+My other major dev interests are Game Development and hobby electronics! Hopefully this page will reflect that some day.
 
 <!--
 **CameronHadfield/cameronhadfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
