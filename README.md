@@ -1,10 +1,5 @@
 ### Hi there! Welcome to my github profile!
-  __      _     _            _   _
- / _|_ __(_) __| | __ _  ___| |_| |__   ___  ___  _ __ ___ _ __ ___
-| |_| '__| |/ _` |/ _` |/ _ | __| '_ \ / _ \/ _ \| '__/ _ | '_ ` _ \\ 
-|  _| |  | | (_| | (_| |  __| |_| | | |  __| (_) | | |  __| | | | | |
-|_| |_|  |_|\__,_|\__, |\___|\__|_| |_|\___|\___/|_|  \___|_| |_| |_|
-                  |___/
+
 I'm FridgeTheorem! Right now I am working on security stuff mostly, and would really like to get into doing CTFs.
 
 My other major dev interests are Game Development and hobby electronics! Hopefully this page will reflect that some day.
